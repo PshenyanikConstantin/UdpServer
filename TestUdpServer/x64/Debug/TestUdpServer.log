@@ -1,0 +1,13 @@
+﻿  TestUdpServer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  UdpServer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Applications\TestUdpServer\UdpServer.cpp(47,41): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  TestUdpServer.vcxproj -> C:\Applications\TestUdpServer\x64\Debug\TestUdpServer.exe
